@@ -22,7 +22,7 @@ from einops.layers.torch import Rearrange
 
 from PIL import Image
 from tqdm.auto import tqdm
-from ema_pytorch import EMA
+# from ema_pytorch import EMA
 
 from accelerate import Accelerator
 
